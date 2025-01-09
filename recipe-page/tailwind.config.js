@@ -18,6 +18,10 @@ export default {
           800: "hsl(332, 51%, 32%)",
         },
       },
+      fontFamily: {
+        serif: ["Young Serif", "serif"],
+        sans: ["Outfit", "sans-serif"],
+      },
     },
   },
   plugins: [],
